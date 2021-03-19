@@ -9,7 +9,7 @@
             "\t\t<meta http-equiv='X-UA-Compatible' content='IE=edge'>",
             "\t\t<meta name='viewport' content='width=device-width, initial-scale=1.0'>",
             "\t\t<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin='anonymous'>",
-            "\t\t<script src='add_Your_fdn_here'></script>",
+            "\t\t<script src='add_Your_cdn_here'></script>",
             "\t\t<title>Document</title>",
         "\t</head>",
         "\t<body>",
