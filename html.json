@@ -1,0 +1,22 @@
+{ 
+"html document" : {
+    "prefix": "h:5",
+    "body": [
+        "<!DOCTYPE html>",
+        "<html lang='en'>", 
+        "\t<head>",
+            "\t\t<meta charset='UTF-8'>",
+            "\t\t<meta http-equiv='X-UA-Compatible' content='IE=edge'>",
+            "\t\t<meta name='viewport' content='width=device-width, initial-scale=1.0'>",
+            "\t\t<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin='anonymous'>",
+            "\t\t<script src='https://use.fontawesome.com/2b42a0310f.js'></script>",
+            "\t\t<title>Document</title>",
+        "\t</head>",
+        "\t<body>",
+            "\t\t$1",				
+        "\t</body>",
+        "</html>"
+        ],
+    "description": "Prepare Html document"
+}
+}
